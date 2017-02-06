@@ -1,0 +1,8 @@
+- name: romain
+  image: romain.png
+- name: seb
+  image: seb.png
+- name: hugo
+  image: hugo.png
+- name: julia
+  image: julia.png
